@@ -1,0 +1,4 @@
+numero = float(input ("Ingrese un numero"))
+a = (numero / 100 * 15)
+resultado = (numero - a)
+print(resultado)
